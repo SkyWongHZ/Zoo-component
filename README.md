@@ -38,3 +38,8 @@ $ pnpm run doctor
 ## LICENSE
 
 MIT
+
+##
+1  引入的组件无报错
+2  发npm包
+3  发私有仓库

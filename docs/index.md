@@ -1,12 +1,12 @@
 ---
 hero:
-  title: library
-  description: A react library developed with dumi
+  title: Zoo
+  description: react业务组件库
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: Input
+      link: /input
+    - text: Foo
+      link: /foo
 features:
   - title: Hello
     emoji: 💎
